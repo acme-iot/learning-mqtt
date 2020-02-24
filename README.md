@@ -6,6 +6,7 @@ Based on [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Learning MQTT](#learning-mqtt)
     - [Topics](#topics)
+    - [Cloud & Cloud Providers](#cloud-providers)
 - [Contributing](#contributing)
 
 ---
@@ -15,6 +16,14 @@ Based on [awesome-python](https://github.com/vinta/awesome-python).
 *Resources to help understand topics.*
 
 * [Understanding MQTT Topics](http://www.steves-internet-guide.com/understanding-mqtt-topics/) - Create, understand, and wildcard topics in MQTT.
+
+## Cloud Providers
+
+*MQTT in the cloud.*
+
+* [HiveMQ AWS AMIs](https://www.hivemq.com/downloads/aws/) - Pre-built AWS images of HiveMQ.
+
+
 
 # Contributing
 
