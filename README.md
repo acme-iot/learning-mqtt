@@ -7,6 +7,7 @@ Based on [awesome-python](https://github.com/vinta/awesome-python).
 - [Learning MQTT](#learning-mqtt)
     - [Topics](#topics)
     - [Cloud & Cloud Providers](#cloud-providers)
+    - [MQTT Brokers](#mqtt-brokers)
 - [Contributing](#contributing)
 
 ---
@@ -23,6 +24,12 @@ Based on [awesome-python](https://github.com/vinta/awesome-python).
 
 * [HiveMQ AWS AMIs](https://www.hivemq.com/downloads/aws/) - Pre-built AWS images of HiveMQ.
 
+
+## MQTT Brokers
+
+*MQTT Brokers including cloud and software based*
+
+* [HiveMQ](https://www.hivemq.com/) - HiveMQ (Comercial/Free version)
 
 
 # Contributing
