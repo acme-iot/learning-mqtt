@@ -14,7 +14,7 @@ Based on [awesome-python](https://github.com/vinta/awesome-python).
 
 *Resources to help understand topics.*
 
-* [title here](https://github.com/a/b) - Add description here.
+* [Understanding MQTT Topics](http://www.steves-internet-guide.com/understanding-mqtt-topics/) - Create, understand, and wildcard topics in MQTT.
 
 # Contributing
 
