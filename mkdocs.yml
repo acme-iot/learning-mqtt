@@ -16,4 +16,4 @@ extra:
 extra_css:
     - css/extra.css
 nav:
-  - "Learning MQTT": "index.md"
+  - "Growing list of anything MQTT": "index.md"
