@@ -2,7 +2,7 @@
 
 
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python).
+Based on [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Learning MQTT](#learning-mqtt)
     - [Topics](#topics)
