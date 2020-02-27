@@ -8,6 +8,7 @@ Based on [awesome-python](https://github.com/vinta/awesome-python).
     - [Topics](#topics)
     - [Cloud & Cloud Providers](#cloud-providers)
     - [MQTT Brokers](#mqtt-brokers)
+    - [MQTT & Raspberry Pi](#raspberry-pi)
 - [Contributing](#contributing)
 
 ---
@@ -31,6 +32,11 @@ Based on [awesome-python](https://github.com/vinta/awesome-python).
 
 * [HiveMQ](https://www.hivemq.com/) - HiveMQ (Comercial/Free version)
 
+## Raspberry Pi
+
+*MQTT on the Raspberry Pi*
+
+* [Install Eclipse Mosquitto](https://www.instructables.com/id/Installing-MQTT-BrokerMosquitto-on-Raspberry-Pi/) - Installing Mosquitto on the Raspberry Pi
 
 # Contributing
 
